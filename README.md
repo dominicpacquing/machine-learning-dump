@@ -11,3 +11,11 @@
 	source python-packages/bin/activate
 	deactivate
 	```
+
+### Examples
+
+* Run jupyter notebooks
+
+	```
+	jupyter notebook
+	```
