@@ -1,3 +1,10 @@
 jupyter
 numpy
 pandas
+scipy
+scikit_learn
+pydot2
+xlrd
+statsmodels
+pydot2
+matplotlib
